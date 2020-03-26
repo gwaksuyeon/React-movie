@@ -1,3 +1,6 @@
+# react-movie
+- api로 영화 정보를 받아오는 project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
